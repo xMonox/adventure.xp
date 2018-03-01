@@ -1,4 +1,4 @@
 package adventurexp.controllers;
 
-public class test2 {
+public class Test2 {
 }
